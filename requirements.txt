@@ -1,0 +1,4 @@
+Flask
+pypandoc
+celery
+redis
